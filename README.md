@@ -29,5 +29,3 @@ docker build -t my-scraper .
 ```
 docker run -p 3000:3000 my-scraper
 ```
-
-- Abrir un navegador web y visitar 'http://localhost:3000/scrape' para ver los resultados de la extracción.
